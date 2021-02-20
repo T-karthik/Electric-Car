@@ -46,18 +46,37 @@ button {
 .navbar-brand {
   font-size: 40px !important;
 }
-footer {
+.foot {
   background: #d6d5d5;
   padding: 40px 0;
 }
-footer li {
+.foot li {
   list-style: none;
   margin-left: 150px;
 }
-footer a {
+.foot a {
   text-decoration: none;
   color: #818181;
 }
-footer p {
+.foot p {
   margin-left: 150px;
+}
+.full-footer {
+  background-color: #343a40;
+}
+.top-footer p {
+  color: white;
+}
+.top-footer a {
+  color: white;
+  font-weight: 600;
+}
+.top-footer h3 {
+  color: white;
+}
+.bottom-footer {
+  background-color: #031b2e;
+}
+.bottom-footer p {
+  color: white;
 }
